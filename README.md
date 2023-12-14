@@ -1,4 +1,4 @@
-[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)]
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Shiva Mehenge</h1>
 <h3 align="center">A passionate Data Analyst | Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
